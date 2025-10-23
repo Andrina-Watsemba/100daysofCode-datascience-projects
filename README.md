@@ -1,6 +1,6 @@
 #  100 Days of code
 
-Welcome to my *#100DaysOfCode  repository!  
+Welcome to my #100DaysOfCode  repository!  
 This repo documents my journey of consistent learning and practice in *Data Science and Analytics specifically in python* — one dataset, one concept, one day at a time.
 
 The goal of this project is to:
